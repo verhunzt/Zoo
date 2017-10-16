@@ -14,6 +14,7 @@ namespace Zoo.entities
         {
             Type = new HashSet<Type>
             {
+                typeof(Forest),
                 typeof(Steppe)
             };
         }

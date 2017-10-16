@@ -44,6 +44,9 @@
   <ItemGroup>
     <Compile Include="entities\Animal.cs" />
     <Compile Include="entities\Boar.cs" />
+    <Compile Include="entities\Cage.cs" />
+    <Compile Include="entities\Forest.cs" />
+    <Compile Include="entities\Keeper.cs" />
     <Compile Include="entities\Robin.cs" />
     <Compile Include="entities\Shark.cs" />
     <Compile Include="entities\Steppe.cs" />
